@@ -1,0 +1,304 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  font-family: 'Open Sans', sans-serif;
+  font-weight: 300;
+  margin: 0px;
+  padding: 0px;
+  top: 0px;
+}
+
+html, body {
+  max-width: 100%;
+  overflow-x: hidden;
+}
+
+a {
+  text-decoration: none;
+  color: black;
+}
+
+section {
+  text-align: center;
+  margin: auto;
+  width: 100%;
+}
+
+nav {
+  margin-top: -150px;
+  text-align: left;
+  transform: rotate(-5deg);
+}
+
+nav li {
+  display: inline;
+  margin-right: 20px;
+}
+
+.question a {
+  color: #ea473b;
+}
+
+video#bgvid {
+  position: absolute;
+    top: 50%;
+    left: 50%;
+    min-width: 100%;
+    min-height: 100%;
+    width: auto;
+    height: auto;
+    z-index: -100;
+    -ms-transform: translateX(-50%) translateY(-50%);
+    -moz-transform: translateX(-50%) translateY(-50%);
+    -webkit-transform: translateX(-50%) translateY(-50%);
+    transform: translateX(-50%) translateY(-50%);
+    background: url(img/bcu-curzon.png) no-repeat;
+    background-size: cover;
+    overflow: none;
+}
+
+@media screen and (max-device-width: 800px) {
+    #bgvid {
+        display: none;
+    }
+    #hero {
+      background-image: url(img/bcu-curzon.png);
+    }
+}
+
+#hero {
+  /*background-image: url(img/bcu-curzon.png);*/
+  background-position: center;
+  height: 980px;
+  width: 100%;
+  overflow: hidden;
+  overflow-x: hidden;
+}
+
+.shard#top {
+  content: ' ';
+  background-color: white;
+  width: 120%;
+  height: 200px;
+  transform: translate(-100px, -100px) rotate(-5deg);
+}
+
+.shard#bottom {
+  content: ' ';
+  background-color: white;
+  width: 120%;
+  height: 300px;
+  transform: translate(-100px, 180px) rotate(3deg);
+}
+
+.container {
+  margin: 100px auto 0 auto;
+}
+
+#logo img {
+  width: 600px;
+}
+
+#hero p {
+  font-size: 40px;
+  line-height: 10px;
+}
+
+.bold {
+  font-weight: bold;
+}
+
+.button {
+  display: inline-block;
+  font-size: 30px;
+  width: 420px;
+  height: 90px;
+  text-transform: uppercase;
+  background: white;
+  transition: ease 0.5s;
+  border: none;
+  padding: 0;
+  position: relative;
+  font-weight: 400;
+}
+
+.txt {
+  text-align: center;
+  position: absolute;
+  width: 100%;
+  margin-top: 20px;
+}
+
+.btn {
+  position: absolute;
+  content: ' ';
+  width: 100%;
+  height: 90px;
+  border: 4px solid black;
+  transform: rotate(-4deg);
+}
+
+.button:hover {
+  cursor: pointer;
+  margin-top: -8px;
+  transition: ease 0.2s;
+}
+
+h1 {
+  font-size: 38px;
+  margin-bottom: 0px;
+}
+
+#faq {
+  margin-top: -32px;
+  padding-bottom: 200px;
+}
+
+.search {
+  width: 500px;
+  margin: auto;
+}
+
+.searchInput {
+  width: 100%;
+  height: 60px;
+  font-size: 30px;
+  border: 5px #e6c622 solid;
+}
+
+.questions {
+
+}
+
+em {
+  background-color: #e6c622;
+  color: white;
+  font-style: normal;
+}
+
+#q {
+  padding-left: 30px;
+}
+
+img.poweredby  {
+  width: 60px;
+  padding-left: 5px;
+  margin-top: 2px;
+  position: absolute;
+}
+#poweredby {
+  margin-top: 5px;
+  height: 50px;
+  display: inline-block;
+  margin-left: 280px;
+  font-size: 12px;
+}
+
+
+
+.sponsors {
+  padding-top: 40px;
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: space-around;
+}
+
+.ais-hits {
+  padding-top: 40px;
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: space-around;
+}
+
+.ais-hits--item {
+  width: 350px;
+  margin-bottom: 30px;
+  position: relative;
+}
+
+.question {
+
+}
+
+.questionContents {
+  padding: 20px;
+}
+
+.questionBorder {
+  border: 5px solid #fff;
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  content: '';
+  transform: rotate(-5deg);
+  z-index: -100;
+}
+
+#map {
+  overflow: hidden;
+  height: 800px;
+  width: 100%;
+}
+
+#location {
+  height: 800px;
+  width: 100%;
+}
+
+#sponsors {
+  background-color: #333333;
+  z-index: -200;
+}
+
+#sponsors h1 {
+  color: white;
+  margin-top: -30px;
+}
+
+#sponsors p {
+  color: white;
+  margin-top: 100px;
+  padding-bottom: 20px;
+  margin-bottom: 0px;
+}
+
+
+.sponsorBorder {
+  border: 8px solid;
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+}
+
+.sponsorBg {
+  background-color: white;
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+}
+
+.sponsor {
+  width: 500px;
+  position: relative;
+  margin-bottom: 60px;
+}
+
+.sponsor img {
+  z-index: 100;
+  position: relative;
+  width: 400px;
+  padding: 50px;
+  vertical-align: middle;
+}
+
+.sponsor#top {
+  z-index: -10;
+}
