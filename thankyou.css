@@ -1,0 +1,22 @@
+body {
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 300;
+}
+
+h1, h2, h3 {
+    text-align: center;
+}
+
+img, button {
+    display: block;
+    margin: auto;
+}
+
+button {
+    height: 50px;
+    width: 5%;
+}
+
+#img-logo {
+    margin-top: 1%;
+}
