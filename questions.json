@@ -1,23 +1,11 @@
 [
   {
-    "question": "What is BullHacks",
-    "answer": "BullHacks is a 24-hour MLH hackathon. We want to make students aware of the skills they already posses and guide them to build cool, fun and innovative projects in just 24 hours!"
-  },
-  {
-    "question": "Wait, what is a \"hackathon\"?",
-    "answer": "A hackathon is an event where programmers and creative tech minds gather together to make awesome project ideas they have a reality! Don't worry, it's completely legal and doesn't involve breaking into any systems! You have 24 hours to form a team, explore your ideas and construct your projects. Once the 24 hours are up, you get to demonstrate what you have built; and we've got awesome prizes for the best hacks!"
-  },
-  {
-    "question": "But what if I can't code?",
-    "answer": "We want you to come along anyway! Regardless of what you think of your technical skills, we're absolutely sure you'll contribute loads! We've also got mentors at the event who are there specifically to help you along and turn your ideas into a reality. We will be running technical workshops throughout the event so if you've always wanted to learn how to code, or if you want to see how technology can be applied to the real world, this is the perfect opportunity!"
+    "question": "What if my question hasnt been answered?",
+    "answer": "You can contact us by email at <a href=\"mailto:help@bullhacks.io\">help@bullhacks.io</a> . You can also ping us anywhere else on the internet on our <a href=\"https://twitter.com/BullHacks\">Twitter</a> or <a href=\"https://www.facebook.com/BullHacksHackathon\">Facebook</a> either before or during the event.</p>"
   },
   {
     "question": "Can I come?",
     "answer": "As long as you are over 18 and currently in full time education (yes Postgraduates too), you are able to attend BullHacks! You don't need to have a team or be able to code, and you can even bring friends along. Just bring your student ID to the event as these will be checked."
-  },
-  {
-    "question": "When and where will it be?",
-    "answer": "BullHacks will be held on March 11th through 12th at Birmingham City University. Our hacking space will be located at the city center campus in <a href=\"https://goo.gl/maps/WBfzaunu4yP2\">The Curzon Building."
   },
   {
     "question": "Help! I don't have a team!",
@@ -28,6 +16,10 @@
     "answer": "You will need to bring your student ID, a laptop, chargers, any other devices you think you will need, and your creativity!</p><p>P.S: You could also bring a fresh set of clothes and a pillow, if you want to be more comfortable."
   },
   {
+    "question": "But what if I can't code?",
+    "answer": "We want you to come along anyway! Regardless of what you think of your technical skills, we're absolutely sure you'll contribute loads! We've also got mentors at the event who are there specifically to help you along and turn your ideas into a reality. We will be running technical workshops throughout the event so if you've always wanted to learn how to code, or if you want to see how technology can be applied to the real world, this is the perfect opportunity!"
+  },
+  {
     "question": "Wait, do I have to pay?",
     "answer": "Not at all; BullHacks is absolutely FREE! We are kindly funded by some awesome sponsors, and thanks to them we can provide you with power, swag and food; you don't have to spend a penny once you're here. Unfortunately, we are not able to provide any travel reimbursements at this time."
   },
@@ -36,11 +28,16 @@
     "answer": "You can register here! We will send you an email confirmation with your acceptance shortly after your registration."
   },
   {
-    "question": "Code of Conduct",
-    "answer": "We believe very strongly in creating a safe, welcoming space for our hackers, and we take our <a href=\"https://static.mlh.io/docs/mlh-code-of-conduct.pdf\">code of conduct</a> extremely seriously. You are expected to abide by the MLH Code of Conduct at all times so make sure you've read it before the event. (Tl;dr because we know no one really reads the fine print: be nice.) You can read through the entire document <a href=\"https://static.mlh.io/docs/mlh-code-of-conduct.pdf\">here</a>"
+    "question": "When and where will it be?",
+    "answer": "BullHacks will be held on Apri2811th through 29th at Birmingham City University. Our hacking space will be located at the city center campus in <a href=\"https://goo.gl/maps/WBfzaunu4yP2\">The Curzon Building."
   },
   {
-    "question": "What if my question hasnt been answered?",
-    "answer": "You can contact us by email at <a href=\"mailto:help@bullhacks.io\">help@bullhacks.io</a> . You can also ping us anywhere else on the internet on our <a href=\"https://twitter.com/BullHacks\">Twitter</a> or <a href=\"https://www.facebook.com/BullHacksHackathon\">Facebook</a> either before or during the event.</p>"
+    "question": "Wait, what is a hackathon?",
+    "answer": "A hackathon is an event where programmers and creative tech minds gather together to make awesome project ideas they have a reality! Don't worry, it's completely legal and doesn't involve breaking into any systems! You have 24 hours to form a team, explore your ideas and construct your projects. Once the 24 hours are up, you get to demonstrate what you have built; and we've got awesome prizes for the best hacks!"
+  },
+  {
+    "question": "What is BullHacks",
+    "answer": "BullHacks is a 24-hour hackathon. We want to make students aware of the skills they already posses and guide them to build cool, fun and innovative projects in just 24 hours!"
   }
+
 ]
