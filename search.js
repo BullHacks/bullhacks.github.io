@@ -1,7 +1,7 @@
 var search = instantsearch({
-  appId: 'YSR2YTDYP9',
-  apiKey: 'b97f5e3ae9455387f13aea017f7f50d0',
-  indexName: 'bullhacksFaq',
+  appId: 'RJWECUZDCJ',
+  apiKey: '6d7adf175b409666823b0fb4a4c135b4',
+  indexName: 'Questions',
   urlSync: false
 });
 
