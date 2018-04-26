@@ -10,7 +10,7 @@ The 2018 iteration of BullHacks will be the second time that BullHacks has been 
 Thanks! But seriously, BullHacks would not be possible without our amazing sponsors. So when you're attending, why not stop by and say thanks? It'll mean the world to them.
 
 ## How can I register?
-That's easy! Go [here](https://register.bullhacks.tech) to register. Just don't forget your student ID on the day!
+We're afraid registration has now ended for this year's BullHacks.
 
 ## I have a question
 Please [contact us](mailto:hello@hacs.tech) with any questions. 
